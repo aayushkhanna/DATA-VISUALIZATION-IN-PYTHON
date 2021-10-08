@@ -6,6 +6,7 @@
 
 <p><b>Overview:</b></p> The project is a bar graph of distance travelled by two different cars at particular time interval. 
 <p><i>The project contains following modules:-</i><p>
+ <ul>
  ➡️ CSV module
  ➡️ Tkinter
  ➡️	Matplotlib
@@ -18,6 +19,7 @@
  ➡️	Super keyword is used.
  ➡️	A login box appears before the execution of the project to take login username and password from the user.
  ➡️	The graph is saved in the form of PDF in the location provided with the use of  plt.savefig.(under matplotlib module)
+  </ul>
  <br>
  
 <p><b>MODULE METHODS AND FUNCTIONS ETC THAT ARE USED TO CREATE PYTHON</b></p>
