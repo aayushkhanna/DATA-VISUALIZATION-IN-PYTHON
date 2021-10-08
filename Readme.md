@@ -1,3 +1,4 @@
+## ABOUT THE PROJECT :
 <p>The name of project is “Difference between distances travelled by two cars using bar graph”.</p>
 <br>
 <p><b><u>Objectives:</b></u>  The aim of project is to distinguish between the distance travelled by two different cars at different time intervals using bar graph.</p>
