@@ -8,17 +8,17 @@
 <p><i>The project contains following modules:-</i><p>
  
  ➡️ CSV module <br>
- ➡️ Tkinter
- ➡️	Matplotlib
- ➡️ Pandas
- ➡️ Inputs given by the user is saved in CSV files.
- ➡️ User input is taken by using input () function.
- ➡️	For loop is used.
- ➡️	Append function is used for adding any value in list
- ➡️	Class is created and under it _init_  function is defined for making a login box.
- ➡️	Super keyword is used.
- ➡️	A login box appears before the execution of the project to take login username and password from the user.
- ➡️	The graph is saved in the form of PDF in the location provided with the use of  plt.savefig.(under matplotlib module)
+ ➡️ Tkinter <br>
+ ➡️	Matplotlib <br>
+ ➡️ Pandas <br>
+ ➡️ Inputs given by the user is saved in CSV files. <br>
+ ➡️ User input is taken by using input () function. <br>
+ ➡️	For loop is used. <br>
+ ➡️	Append function is used for adding any value in list <br>
+ ➡️	Class is created and under it _init_  function is defined for making a login box. <br>
+ ➡️	Super keyword is used. <br>
+ ➡️	A login box appears before the execution of the project to take login username and password from the user. <br>
+ ➡️	The graph is saved in the form of PDF in the location provided with the use of  plt.savefig.(under matplotlib module) <br>
  <br>
  
 <p><b>MODULE METHODS AND FUNCTIONS ETC THAT ARE USED TO CREATE PYTHON</b></p>
