@@ -37,6 +37,7 @@
 :white_check_mark: 	Columns from a data structure can be deleted or inserted. <br>
 :white_check_mark: 	High performance merging and joining of data. <br>
 :white_check_mark: 	Time series functionality. <br>
+<br>
 
 :black_square_button:	<b>CSV file:- </b>
 <p>The CSV module gives the python programmer the ability to parse CSV (Comma Separated Values) files. A CSV file is a human readable text file where each line has a number of fields, separated by commas or some other delimiter. The CSV format has no standard, but they are similar enough that the CSV module will be able to read the vast majority of CSV files. You can also write CSV files using the CSV module.</p>
@@ -47,16 +48,17 @@
 There are many websites that provide interesting information in CSV format.We will be using the World Health Organization’s (WHO) website to download some information on Tuberculosis.</p>
 <br>
 
- :black_square_button:  <b>Writing a CSV file:- </b>
-The CSV module also has two methods that you can use to write a CSV file.You can use to write a CSV file. We can use the write function or the DictWriter class.
-The csvwriter function opens the path that we pass in and creates a csv writer object. The DictWriter class also support the writerows method, which we could have used instead of the loop.The CSV writer function supports this functionality.
+:black_square_button:  <b>Writing a CSV file:- </b>
+<p>The CSV module also has two methods that you can use to write a CSV file.You can use to write a CSV file. We can use the write function or the DictWriter class.
+The csvwriter function opens the path that we pass in and creates a csv writer object. The DictWriter class also support the writerows method, which we could have used instead of the loop.The CSV writer function supports this functionality.</p>
 
-	Tkinter:-Tkinter is python module used to create simple GUI apps. It is the most commonly used 
-Module for GUI apps in the Python.
-	Button:- It is used to place buttons in Tkinter.
-	Entry:- It is used to create input fields in GUI.
-	Frame:- It is used as containers in Tkinter.
-	Label :- Label is used to create a single line widgets like text, images etc.
+:white_check_mark:	<b>Tkinter:-</b><p>Tkinter is python module used to create simple GUI apps. It is the most commonly used </p><br>
+
+<p>Module for GUI apps in the Python.</p>
+:white_check_mark:<b>Button:-</b><p> It is used to place buttons in Tkinter.</p><br>
+:white_check_mark:<b>Entry:-</b><p>  It is used to create input fields in GUI.</p><br>
+:white_check_mark:<b>Frame:-</b><p>  It is used as containers in Tkinter.</p><br>
+:white_check_mark:<b>Label:-</b><p>  Label is used to create a single line widgets like text, images etc.</p><br>
 
 
 
@@ -65,3 +67,4 @@ Module for GUI apps in the Python.
                                                                  
  
 
+:large_orange_diamond: :large_orange_diamond: :large_orange_diamond: :large_orange_diamond: :large_orange_diamond: :large_orange_diamond: :large_orange_diamond: 
