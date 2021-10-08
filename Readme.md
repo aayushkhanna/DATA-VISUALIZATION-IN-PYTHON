@@ -29,7 +29,7 @@
 <p>Pandas is an open source Python Library providing high-performance data manipulation and analysis tool using its powerful data structures. The name Pandas is derived from the word Panel Data – an Econometrics from Multidimensional data.  Python  with Pandas is used in a wide range of fields including academic and commercial domains including finance , economics , statistics , analytics etc.</p>
 
 <p>Features of Pandas:</p>
-:information_source: Fast and efficient DataFrame object with default and customized indexing.
+:new:  Fast and efficient DataFrame object with default and customized indexing.
 •	Tools for loading data into in – memory data objects from different file formats.
 •	Data alignment and integrated handling of missing data.
 •	Reshaping and pivoting of date sets.
