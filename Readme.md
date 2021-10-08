@@ -61,7 +61,15 @@ The csvwriter function opens the path that we pass in and creates a csv writer o
 :white_check_mark:<b>Label:-</b><p>  Label is used to create a single line widgets like text, images etc.</p><br>
 
 
+<p>Snapshots of Output</p>
+![image](https://user-images.githubusercontent.com/61871652/136611712-b8784052-746f-4706-a9c7-44cec9edfc7f.png)
+![image](https://user-images.githubusercontent.com/61871652/136611728-8b8c5c90-71cb-4997-a03a-64b419bbc207.png)
+![image](https://user-images.githubusercontent.com/61871652/136611737-72a0bb72-6f5b-4c59-98f5-389d8b900134.png)
+![image](https://user-images.githubusercontent.com/61871652/136611743-fc12f958-7dd5-4610-89db-ffe8d71b2f3a.png)
+![image](https://user-images.githubusercontent.com/61871652/136611751-0971343f-b063-4da6-b8da-78abc20f879c.png)
+![image](https://user-images.githubusercontent.com/61871652/136611759-178efbc5-5e81-4ac6-9e1f-123705731142.png)
 
+<br>
 
 
                                                                  
