@@ -29,20 +29,25 @@
 <p>Pandas is an open source Python Library providing high-performance data manipulation and analysis tool using its powerful data structures. The name Pandas is derived from the word Panel Data – an Econometrics from Multidimensional data.  Python  with Pandas is used in a wide range of fields including academic and commercial domains including finance , economics , statistics , analytics etc.</p>
 
 <p>Features of Pandas:</p>
-:white_check_mark:Fast and efficient DataFrame object with default and customized indexing.
-•	Tools for loading data into in – memory data objects from different file formats.
-•	Data alignment and integrated handling of missing data.
-•	Reshaping and pivoting of date sets.
-•	Label-based slicing, indexing and subnetting of large data sets.
-•	Columns from a data structure can be deleted or inserted.
-•	High performance merging and joining of data.
-•	Time series functionality.
+:white_check_mark: Fast and efficient DataFrame object with default and customized indexing. <br>
+:white_check_mark: Tools for loading data into in – memory data objects from different file formats. <br>
+:white_check_mark: 	Data alignment and integrated handling of missing data. <br>
+:white_check_mark: 	Reshaping and pivoting of date sets. <br>
+:white_check_mark: 	Label-based slicing, indexing and subnetting of large data sets. <br>
+:white_check_mark: 	Columns from a data structure can be deleted or inserted. <br>
+:white_check_mark: 	High performance merging and joining of data. <br>
+:white_check_mark: 	Time series functionality. <br>
 
-	CSV file: -The CSV module gives the python programmer the ability to parse CSV (Comma Separated Values) files. A CSV file is a human readable text file where each line has a number of fields, separated by commas or some other delimiter. The CSV format has no standard, but they are similar enough that the CSV module will be able to read the vast majority of CSV files. You can also write CSV files using the CSV module.
-	Reading from CSV file:
-There are two ways to read from a CSV file. You can sue the csv module’s readerfunction or you can use the DictReader class.
-There are many websites that provide interesting information in CSV format.We will be using the World Health Organization’s (WHO) website to download some information on Tuberculosis.
-	Writing a CSV file:
+:black_square_button:	<b>CSV file:- </b>
+<p>The CSV module gives the python programmer the ability to parse CSV (Comma Separated Values) files. A CSV file is a human readable text file where each line has a number of fields, separated by commas or some other delimiter. The CSV format has no standard, but they are similar enough that the CSV module will be able to read the vast majority of CSV files. You can also write CSV files using the CSV module.</p>
+
+<br>
+:black_square_button: <b>Reading from CSV file:- </b>
+<p>There are two ways to read from a CSV file. You can sue the csv module’s readerfunction or you can use the DictReader class.
+There are many websites that provide interesting information in CSV format.We will be using the World Health Organization’s (WHO) website to download some information on Tuberculosis.</p>
+<br>
+
+ :black_square_button:  <b>Writing a CSV file:- </b>
 The CSV module also has two methods that you can use to write a CSV file.You can use to write a CSV file. We can use the write function or the DictWriter class.
 The csvwriter function opens the path that we pass in and creates a csv writer object. The DictWriter class also support the writerows method, which we could have used instead of the loop.The CSV writer function supports this functionality.
 
