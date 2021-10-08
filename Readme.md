@@ -2,7 +2,7 @@
 <br>
 <p><b><u>Objectives:</b></u>  The aim of project is to distinguish between the distance travelled by two different cars at different time intervals using bar graph.</p>
 
-Platform Used: 
+:arrow_right: `:arrow_right:` Platform Used: 
 Latest version of PyCharm (2019) is used as a platform to build python project.
 
 Overview:
